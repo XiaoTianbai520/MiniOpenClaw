@@ -27,3 +27,4 @@ tmp/
 .idea/
 .DS_Store
 Thumbs.db
+.workbuddy/
