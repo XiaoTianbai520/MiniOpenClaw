@@ -4,7 +4,7 @@
   "description": "",
   "main": "src/index.ts",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1",
+    "test": "node test/test1.ts",
     "start": "node --env-file=.env src/index.ts"
   },
   "repository": {
